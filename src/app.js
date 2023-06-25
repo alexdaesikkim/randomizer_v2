@@ -1,6 +1,10 @@
+import dotenv from "dotenv";
 import express, {json} from 'express';
 import * as BPL from './iidx_bpl';
+import * as redis from 'redis';
 import cors from 'cors';
+
+dotenv.config();
 
 const app = express();
 
@@ -9,11 +13,36 @@ app.use(cors())
 
 const PORT = process.env.PORT || 3000;
 
+const redisClient = redis.createClient({
+    socket: {
+        host: process.env.REDISHOST,
+        port: process.env.REDISPORT
+    },
+    password: process.env.REDISPASSWORD
+})
+
+redisClient.on('connect', _ => {
+    console.log('connected')
+})
+
+//main page
+//admin
+//team view
+//stream view
+
+redisClient.on('error', err => console.log('Redis Server Error', err));
+
 app.get('/', async (req, res) => {
     res.json({ status: true, message: "Successful call to the app"})
 })
 
-app.get('/test', async (req, res) => {
+app.get('/api/retrievematch', async(req, res) => {
+    const value = await client.get('test1');
+    console.log(value)
+})
+
+app.get('/api/creatematch', async (req, res) => {
+    console.log(req)
     let config = {
         limits: [
             {
@@ -36,7 +65,20 @@ app.get('/test', async (req, res) => {
         team2StrategyCards: 1,
         scores: [1, 2, 3]
     }
-    res.json({ status: true, message: BPL.createBPLMatch(config)})
+    let response = BPL.createBPLMatch(config);
+    let matchID = Object.keys(response)[0];
+    await redisClient.connect();
+    await redisClient.json.set(matchID, '.', response[matchID]);
+    
+    let returnObj = {
+        matchID: matchID,
+        team1ID: response[matchID].team1.id,
+        team2ID: response[matchID].team2.id
+    }
+
+    await redisClient.quit();
+
+    res.json({ status: true, message: returnObj});
 })
 
 app.listen(PORT, () => console.log(`App listening at port ${PORT}`))

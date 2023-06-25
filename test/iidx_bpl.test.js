@@ -51,7 +51,6 @@ describe('creating new match of type 1', () => {
     })
 
     test('expect config creation to return correct match1 format', () => {
-    
         expect(match[key].team1.name).toBe("ROUND1")
         expect(match[key].team1.strategyCards).toBe(1)
         expect(match[key].team1.players.length).toBe(3)
@@ -99,7 +98,7 @@ describe('creating new match of type 2', () => {
         })
     })
 
-    test('expect config creation to return correct match1 format', () => {
+    test('expect config creation to return correct match2 format', () => {
     
         let key = Object.keys(match)[0]
 
