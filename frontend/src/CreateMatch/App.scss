@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: red;
+}
+
+.team-container {
+    width: 100%;
+    display: inline-grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 0.25em;
+}
+
+.team-column {
+    width: 100%;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.team-item {
+    font-size: 16px;
+}
+
+.team-item input {
+    width: 95%;
+    height: 32px;
+    font-size: 20px;
+    padding: 4px;
+}
+
+.common-container {
+    width: 100%;
+    display: inline-grid;
+    grid-template-columns: 1fr;
+}
+
+.common-column {
+    width: 100%;
+    padding: 12px;
+}
+
+.common-input {
+    font-size: 32px;
+}
+
+.common-input input[type=number] {
+    height: 36px;
+    font-size: 28px;
+    width: 100%;
+}
+
+.checkbox-container {
+    font-size: 16px;
+    display: grid;
+    grid-template-columns: 1em auto;
+    gap: 0.25em;
+}
+
+.checkbox-container input{
+    margin: 0px 0px 0px 0px;
+}
+
+.songlimit-container {
+    width: 100%;
+    font-size: 16px;
+    display: inline-grid;
+    grid-template-columns: minmax(80px, auto) minmax(80px, auto) minmax(80px, auto) minmax(80px, auto) 80px;
+    gap: 0.25em;
+}
+
+.songlimit-column {
+    width: 100%;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.songlimit-diff {
+    font-size: 16px;
+}
+
+.delete-button-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.delete-button { 
+    display: block;
+    height: 44px;
+    width: 44px;
+    margin: 0;
+    flex-shrink: 1;
+}
+
+.songlimit-diff input {
+    height: 32px;
+    font-size: 20px;
+    padding: 4px;
+    width: 90%;
+}
+
+.select-genre {
+    height: 44px;
+    font-size: 20px;
+    padding: 4px;
+    width: 90%;
+}
