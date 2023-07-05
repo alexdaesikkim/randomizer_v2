@@ -15,9 +15,10 @@ const blankMatchFormat = {
         picks: [],
         strategyCards: 0
     },
-    limits: [],
-    scores: [],
-    result: []
+    songLimits: [],
+    songScores: [],
+    result: [],
+    exStrategyCard: false
 }
 
 /*
@@ -34,11 +35,12 @@ const blankMatchFormat = {
 */
 
 export const createBPLMatch = (config) => {
-    let songLimits = config.limits;
+    console.log(config)
+    let songLimits = config.songLimits;
     let copyMatch = {...blankMatchFormat};
     let matchID = Math.random().toString(36).slice(2);
-    copyMatch.limits = songLimits;
-    copyMatch.scores = config.scores
+    copyMatch.songLimits = songLimits;
+    copyMatch.songScores = config.songScores
     copyMatch.result = new Array(songLimits.length*2).fill(0);
     copyMatch.team1.id = Math.random().toString(36).slice(2);
     copyMatch.team2.id = Math.random().toString(36).slice(2);

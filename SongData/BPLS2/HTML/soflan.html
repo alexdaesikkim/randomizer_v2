@@ -1,0 +1,180 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function (event) {
+    var list = [].slice.call(document.getElementsByClassName("cat"));
+    var test = list.map((value, id) => {
+      return {
+        id: "soflan" + id,
+        level: value.childNodes[1].innerText,
+        title: value.childNodes[3].innerText,
+        difficulty:
+          value.childNodes[3].className !== "leg" ? "Another" : "Leggendaria",
+      };
+    });
+    console.log({ soflan: test });
+  });
+</script>
+
+<li>
+  <div class="inner">
+    <div class="cat">
+      <p>8</p>
+      <p>empathy</p>
+    </div>
+    <div class="cat">
+      <p>8</p>
+      <p>Voltage (feat. Hidemaru)</p>
+    </div>
+    <div class="cat">
+      <p>9</p>
+      <p>2hot2eat</p>
+    </div>
+    <div class="cat">
+      <p>9</p>
+      <p>era (nostalmix)</p>
+    </div>
+    <div class="cat">
+      <p>9</p>
+      <p>era (step mix)</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>Agnus Dei</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>GRADIUS -FULL SPEED-</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>op.31 叙情</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>Surf on the Light</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>(This Is Not) The Angels</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>Ah Hah Yeah</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>D</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>four pieces of heaven</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>FUTURE is Dead</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>Linus</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>nostos</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>Onyx</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>SABER WING</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>Theory</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Concertino in Blue</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>DAY DREAM</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>DropZ-Line-</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Fascination MAXX</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>ICARUS</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p class="leg">ICARUS</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>JOMANDA</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>n/a</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>New Castle Legions</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>PARANOiA ～HADES～</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>POSSESSION</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>ruin of opals</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Silver Bullet</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Y&amp;Co. is dead or alive</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>ピアノ協奏曲第１番”蠍火”</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>ピアノ独奏無言歌 "灰燼"</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>ワルツ第17番 ト短調”大犬のワルツ”</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>音楽</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>桜</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>聖人の塔</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>冥</p>
+    </div>
+  </div>
+</li>

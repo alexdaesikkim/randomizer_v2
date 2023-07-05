@@ -36,36 +36,37 @@ app.get('/', async (req, res) => {
     res.json({ status: true, message: "Successful call to the app"})
 })
 
-app.get('/api/retrievematch', async(req, res) => {
-    const value = await client.get('test1');
-    console.log(value)
+app.get('/api/retrievematch/:matchid', async (req, res) => {
+    console.log()
 })
 
-app.get('/api/creatematch', async (req, res) => {
-    console.log(req)
-    let config = {
-        limits: [
-            {
-                min_diff: 8,
-                max_diff: 10,
-                genre: "soflan"
-            }, {
-                min_diff: 11,
-                max_diff: 11,
-                genre: "soflan"
-            }, {
-                min_diff: 12,
-                max_diff: 12,
-                genre: "soflan"
-            }
-        ],
-        team1Name: "ROUND1",
-        team2Name: "LEISURELAND",
-        team1StrategyCards: 1,
-        team2StrategyCards: 1,
-        scores: [1, 2, 3]
+app.get('/api/retrievematch/:matchid/:teamid', async(req, res) => {
+    let matchID = req.params.matchid
+    let teamID = req.params.teamid
+
+    await redisClient.connect();
+    let matchObj = await redisClient.json.get(matchID, {path: '.'});
+    console.log(matchObj);
+    //console.log(await redisClient.json.get(matchID, {path: `.[${teamID}]`}))
+    await redisClient.quit();
+    let returnObj = {}
+    if(teamID === matchObj.team1.id){
+        returnObj = matchObj.team1
+    } else if(teamID === matchObj.team2.id){
+        returnObj = matchObj.team2
+    } else {
+        return res.status(404).json({error: 'Match not found'})
     }
-    let response = BPL.createBPLMatch(config);
+    returnObj.songLimits = matchObj.songLimits;
+    returnObj.exStrategyCard = matchObj.exStrategyCard;
+    returnObj.songScores = matchObj.songScores;
+
+    return res.json({ status: true, message: returnObj})
+})
+
+app.post('/api/creatematch', async (req, res) => {
+    console.log(req.body)
+    let response = BPL.createBPLMatch(req.body);
     let matchID = Object.keys(response)[0];
     await redisClient.connect();
     await redisClient.json.set(matchID, '.', response[matchID]);
@@ -77,6 +78,7 @@ app.get('/api/creatematch', async (req, res) => {
     }
 
     await redisClient.quit();
+    console.log(returnObj)
 
     res.json({ status: true, message: returnObj});
 })

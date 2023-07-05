@@ -40,12 +40,13 @@ describe('creating new match of type 1', () => {
 
     beforeAll(() => {
         match = BPL.createBPLMatch({
-            limits: round1Limits,
+            songLimits: round1Limits,
             team1StrategyCards: 1,
             team2StrategyCards: 1,
             team1Name: "ROUND1",
             team2Name: "LEISURELAND",
-            scores: [1, 2, 3]
+            songScores: [1, 2, 3],
+            exStrategyCard: false
         })
         key = Object.keys(match)[0]
     })
@@ -59,9 +60,10 @@ describe('creating new match of type 1', () => {
         expect(match[key].team2.strategyCards).toBe(1)
         expect(match[key].team2.players.length).toBe(3)
         expect(match[key].team2.picks.length).toBe(3)
-        expect(match[key].limits).toEqual(round1Limits)
-        expect(match[key].scores).toStrictEqual([1, 2, 3])
+        expect(match[key].songLimits).toEqual(round1Limits)
+        expect(match[key].songScores).toStrictEqual([1, 2, 3])
         expect(match[key].result).toStrictEqual([0, 0, 0, 0, 0, 0])
+        expect(match[key].exStrategyCard).toBe(false)
     })
 
     test('expect updating scores to return correct value', () => {
@@ -89,12 +91,13 @@ describe('creating new match of type 2', () => {
 
     beforeAll(() => {
         match = BPL.createBPLMatch({
-            limits: round2Limits,
+            songLimits: round2Limits,
             team1StrategyCards: 0,
             team2StrategyCards: 0,
             team1Name: "GAMEPANIC",
             team2Name: "SILKHAT",
-            scores: [1, 2, 3]
+            songScores: [1, 2, 3],
+            exStrategyCard: false
         })
     })
 
@@ -110,8 +113,8 @@ describe('creating new match of type 2', () => {
         expect(match[key].team2.strategyCards).toBe(0)
         expect(match[key].team2.players.length).toBe(3)
         expect(match[key].team2.picks.length).toBe(3)
-        expect(match[key].limits).toEqual(round2Limits)
-        expect(match[key].scores).toStrictEqual([1, 2, 3])
+        expect(match[key].songLimits).toEqual(round2Limits)
+        expect(match[key].songScores).toStrictEqual([1, 2, 3])
         expect(match[key].result).toStrictEqual([0, 0, 0, 0, 0, 0])
     })
 })

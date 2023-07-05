@@ -11,8 +11,8 @@ const initialState = {
     team1Name: "",
     team2Name: "",
     songScores: [1,2,3],
-    team1StrategyCard: 1,
-    team2StrategyCard: 1,
+    team1StrategyCards: 1,
+    team2StrategyCards: 1,
     exStrategyCard: false
 }
 
@@ -25,8 +25,8 @@ export const matchSlice = createSlice({
             else state.team2Name = action.payload.value;
         },
         setStrategyCard: (state, action) => {
-            if(action.payload.team === 1) state.team1StrategyCard = action.payload.value;
-            else state.team2StrategyCard = action.payload.value;
+            if(action.payload.team === 1) state.team1StrategyCards = action.payload.value;
+            else state.team2StrategyCards = action.payload.value;
         },
         setEXStrategy: (state) => {
             state.exStrategyCard = !state.exStrategyCard

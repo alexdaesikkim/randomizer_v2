@@ -5,8 +5,6 @@ import App from "./App";
 import { store } from './redux/store.js';
 import { Provider } from 'react-redux';
 
-import '@fontsource/roboto/400.css';
-
 import "./App.scss";
 
 const root = createRoot(document.getElementById('root'));

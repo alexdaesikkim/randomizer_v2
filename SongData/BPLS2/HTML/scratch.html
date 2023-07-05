@@ -1,0 +1,332 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function (event) {
+    var list = [].slice.call(document.getElementsByClassName("cat"));
+    var test = list.map((value, id) => {
+      return {
+        id: "scratch" + id,
+        level: value.childNodes[1].innerText,
+        title: value.childNodes[3].innerText,
+        difficulty:
+          value.childNodes[3].className !== "leg" ? "Another" : "Leggendaria",
+      };
+    });
+    console.log({ scratch: test });
+  });
+</script>
+
+<li>
+  <div class="inner">
+    <div class="cat">
+      <p>8</p>
+      <p>Spin the disc</p>
+    </div>
+    <div class="cat">
+      <p>8</p>
+      <p>サヨナラ・ヘヴン</p>
+    </div>
+    <div class="cat">
+      <p>9</p>
+      <p>Close my Eyes for Me</p>
+    </div>
+    <div class="cat">
+      <p>9</p>
+      <p>route 80s</p>
+    </div>
+    <div class="cat">
+      <p>9</p>
+      <p>Somebody Like You</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>250bpm</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>5.1.1.</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>bass 2 bass</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>Buffalo</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>Catch Me</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>Do Back Burn</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>Feedback</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>HEARTACHE</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>Hella Deep</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>Midnight Drive</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>NO LIMIT -オレ達に限界は無い-</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>Non Stop Rock</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>Really Love</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>rottel-da-sun</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>SPEED DEMON</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>SWEET LAB</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>WAR GAME</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>オレはビートマニア！お前は何マニア？</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>灼熱Beach Side Bunny (Masayoshi Iimori Remix)</p>
+    </div>
+    <div class="cat">
+      <p>10</p>
+      <p>廿</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>27th style</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>Beat Juggling Mix</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>Bounce Bounce Bounce</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>CHECKING YOU OUT</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>CODE:0</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>Digitank System</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>Halfway of promise</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>IDC feat.REVERBEE (Mo'Cuts Ver)</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>Just a Little Smile</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>naughty girl@Queen's Palace</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p class="leg">naughty girl@Queen's Palace</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>Overload Frontier</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>rough percussionythm</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>Routing</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>SAMURAI-Scramble</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>Swarm Of Scarabs</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>SWEETEST SAVAGE</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>Uh-Oh</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>Wonder Bullfighter</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>カジノファイヤーことみちゃん</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>とろぴかる倶楽部</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p class="leg">ベィスドロップ・フリークス</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>ラクエン</p>
+    </div>
+    <div class="cat">
+      <p>11</p>
+      <p>花冠 feat.Aikapin</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>199024club -Re:BounceKiller-</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p class="leg">Be quiet</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>BLACK.by X-Cross Fade</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>BLUE MIRAGE</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Caterpillar</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Don't believe the hype</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Double Dribble</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Level 2</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Level 3</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Level One</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Lords Of The Roundtable</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Plan 8</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Purple Perplex</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>RAGE feat.H14 of LEONAIR</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Red. by Full Metal Jacket</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Red. by Jack Trance</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p class="leg">SAMURAI-Scramble</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>SAY BAY</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>SCREW // owo // SCREW</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Skreaming for Salvation</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Snake Stick</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>The Chase</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Watch Out Pt.2</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>WHA</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>Xperanza</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>バッド・スイーツ、バッド・ドリーム</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>灼熱 Pt.2 Long Train Running</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>灼熱Beach Side Bunny</p>
+    </div>
+    <div class="cat">
+      <p>12</p>
+      <p>焱影</p>
+    </div>
+  </div>
+</li>

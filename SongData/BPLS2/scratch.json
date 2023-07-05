@@ -1,0 +1,472 @@
+{
+    "scratch": [
+        {
+            "id": "scratch0",
+            "level": "8",
+            "title": "Spin the disc",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch1",
+            "level": "8",
+            "title": "サヨナラ・ヘヴン",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch2",
+            "level": "9",
+            "title": "Close my Eyes for Me",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch3",
+            "level": "9",
+            "title": "route 80s",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch4",
+            "level": "9",
+            "title": "Somebody Like You",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch5",
+            "level": "10",
+            "title": "250bpm",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch6",
+            "level": "10",
+            "title": "5.1.1.",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch7",
+            "level": "10",
+            "title": "bass 2 bass",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch8",
+            "level": "10",
+            "title": "Buffalo",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch9",
+            "level": "10",
+            "title": "Catch Me",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch10",
+            "level": "10",
+            "title": "Do Back Burn",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch11",
+            "level": "10",
+            "title": "Feedback",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch12",
+            "level": "10",
+            "title": "HEARTACHE",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch13",
+            "level": "10",
+            "title": "Hella Deep",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch14",
+            "level": "10",
+            "title": "Midnight Drive",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch15",
+            "level": "10",
+            "title": "NO LIMIT -オレ達に限界は無い-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch16",
+            "level": "10",
+            "title": "Non Stop Rock",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch17",
+            "level": "10",
+            "title": "Really Love",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch18",
+            "level": "10",
+            "title": "rottel-da-sun",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch19",
+            "level": "10",
+            "title": "SPEED DEMON",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch20",
+            "level": "10",
+            "title": "SWEET LAB",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch21",
+            "level": "10",
+            "title": "WAR GAME",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch22",
+            "level": "10",
+            "title": "オレはビートマニア！お前は何マニア？",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch23",
+            "level": "10",
+            "title": "灼熱Beach Side Bunny (Masayoshi Iimori Remix)",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch24",
+            "level": "10",
+            "title": "廿",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch25",
+            "level": "11",
+            "title": "27th style",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch26",
+            "level": "11",
+            "title": "Beat Juggling Mix",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch27",
+            "level": "11",
+            "title": "Bounce Bounce Bounce",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch28",
+            "level": "11",
+            "title": "CHECKING YOU OUT",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch29",
+            "level": "11",
+            "title": "CODE:0",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch30",
+            "level": "11",
+            "title": "Digitank System",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch31",
+            "level": "11",
+            "title": "Halfway of promise",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch32",
+            "level": "11",
+            "title": "IDC feat.REVERBEE (Mo'Cuts Ver)",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch33",
+            "level": "11",
+            "title": "Just a Little Smile",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch34",
+            "level": "11",
+            "title": "naughty girl@Queen's Palace",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch35",
+            "level": "11",
+            "title": "naughty girl@Queen's Palace",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "scratch36",
+            "level": "11",
+            "title": "Overload Frontier",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch37",
+            "level": "11",
+            "title": "rough percussionythm",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch38",
+            "level": "11",
+            "title": "Routing",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch39",
+            "level": "11",
+            "title": "SAMURAI-Scramble",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch40",
+            "level": "11",
+            "title": "Swarm Of Scarabs",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch41",
+            "level": "11",
+            "title": "SWEETEST SAVAGE",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch42",
+            "level": "11",
+            "title": "Uh-Oh",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch43",
+            "level": "11",
+            "title": "Wonder Bullfighter",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch44",
+            "level": "11",
+            "title": "カジノファイヤーことみちゃん",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch45",
+            "level": "11",
+            "title": "とろぴかる倶楽部",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch46",
+            "level": "11",
+            "title": "ベィスドロップ・フリークス",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "scratch47",
+            "level": "11",
+            "title": "ラクエン",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch48",
+            "level": "11",
+            "title": "花冠 feat.Aikapin",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch49",
+            "level": "12",
+            "title": "199024club -Re:BounceKiller-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch50",
+            "level": "12",
+            "title": "Be quiet",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "scratch51",
+            "level": "12",
+            "title": "BLACK.by X-Cross Fade",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch52",
+            "level": "12",
+            "title": "BLUE MIRAGE",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch53",
+            "level": "12",
+            "title": "Caterpillar",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch54",
+            "level": "12",
+            "title": "Don't believe the hype",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch55",
+            "level": "12",
+            "title": "Double Dribble",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch56",
+            "level": "12",
+            "title": "Level 2",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch57",
+            "level": "12",
+            "title": "Level 3",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch58",
+            "level": "12",
+            "title": "Level One",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch59",
+            "level": "12",
+            "title": "Lords Of The Roundtable",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch60",
+            "level": "12",
+            "title": "Plan 8",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch61",
+            "level": "12",
+            "title": "Purple Perplex",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch62",
+            "level": "12",
+            "title": "RAGE feat.H14 of LEONAIR",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch63",
+            "level": "12",
+            "title": "Red. by Full Metal Jacket",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch64",
+            "level": "12",
+            "title": "Red. by Jack Trance",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch65",
+            "level": "12",
+            "title": "SAMURAI-Scramble",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "scratch66",
+            "level": "12",
+            "title": "SAY BAY",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch67",
+            "level": "12",
+            "title": "SCREW // owo // SCREW",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch68",
+            "level": "12",
+            "title": "Skreaming for Salvation",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch69",
+            "level": "12",
+            "title": "Snake Stick",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch70",
+            "level": "12",
+            "title": "The Chase",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch71",
+            "level": "12",
+            "title": "Watch Out Pt.2",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch72",
+            "level": "12",
+            "title": "WHA",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch73",
+            "level": "12",
+            "title": "Xperanza",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch74",
+            "level": "12",
+            "title": "バッド・スイーツ、バッド・ドリーム",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch75",
+            "level": "12",
+            "title": "灼熱 Pt.2 Long Train Running",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch76",
+            "level": "12",
+            "title": "灼熱Beach Side Bunny",
+            "difficulty": "Another"
+        },
+        {
+            "id": "scratch77",
+            "level": "12",
+            "title": "焱影",
+            "difficulty": "Another"
+        }
+    ]
+}

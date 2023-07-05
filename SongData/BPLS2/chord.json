@@ -1,0 +1,1636 @@
+{
+    "chord": [
+        {
+            "id": "chord0",
+            "level": "8",
+            "title": "bit mania",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord1",
+            "level": "8",
+            "title": "Fly Above",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord2",
+            "level": "8",
+            "title": "PROMISE FOR LIFE",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord3",
+            "level": "8",
+            "title": "バビロニア",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord4",
+            "level": "8",
+            "title": "マチ子の唄",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord5",
+            "level": "9",
+            "title": "And-RoiD",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord6",
+            "level": "9",
+            "title": "Bad Routine",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord7",
+            "level": "9",
+            "title": "Boundary",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord8",
+            "level": "9",
+            "title": "BRIDAL FESTIVAL !!!",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord9",
+            "level": "9",
+            "title": "chrono diver -fragment-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord10",
+            "level": "9",
+            "title": "Claiomh Solais",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord11",
+            "level": "9",
+            "title": "COSMIC☆WONDER☆REVOLUTION",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord12",
+            "level": "9",
+            "title": "Crank It",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord13",
+            "level": "9",
+            "title": "Double♡♡Loving Heart",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord14",
+            "level": "9",
+            "title": "Element of SPADA",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord15",
+            "level": "9",
+            "title": "HIGH",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord16",
+            "level": "9",
+            "title": "High School Love",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord17",
+            "level": "9",
+            "title": "Hurry Hurry",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord18",
+            "level": "9",
+            "title": "Kick Out 仮面",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord19",
+            "level": "9",
+            "title": "LESSON 5",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord20",
+            "level": "9",
+            "title": "Love Me Do",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord21",
+            "level": "9",
+            "title": "LUV CAN SAVE U",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord22",
+            "level": "9",
+            "title": "Medicine of love",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord23",
+            "level": "9",
+            "title": "Mind Mapping",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord24",
+            "level": "9",
+            "title": "Recollection",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord25",
+            "level": "9",
+            "title": "Roots of my way!",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord26",
+            "level": "9",
+            "title": "SURVIVOR",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord27",
+            "level": "9",
+            "title": "thunder HOUSE NATION Remix",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord28",
+            "level": "9",
+            "title": "ToyCube Pf.(RX-Ver.S.P.L.)",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord29",
+            "level": "9",
+            "title": "Voxane",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord30",
+            "level": "9",
+            "title": "コスモス",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord31",
+            "level": "9",
+            "title": "セカンドピアス",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord32",
+            "level": "9",
+            "title": "たからもの",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord33",
+            "level": "9",
+            "title": "タシカナモノ",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord34",
+            "level": "9",
+            "title": "下弦の月",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord35",
+            "level": "9",
+            "title": "犬に雨傘",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord36",
+            "level": "9",
+            "title": "黒紅掬い",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord37",
+            "level": "9",
+            "title": "白露の風",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord38",
+            "level": "10",
+            "title": "1001 -ESCAPE-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord39",
+            "level": "10",
+            "title": "50th Memorial Songs -Beginning Story-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord40",
+            "level": "10",
+            "title": "50th Memorial Songs -Flagship medley-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord41",
+            "level": "10",
+            "title": "50th Memorial Songs -二人の時 ～under the cherry blossoms～-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord42",
+            "level": "10",
+            "title": "8bit Princess",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord43",
+            "level": "10",
+            "title": "Beat Radiance",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord44",
+            "level": "10",
+            "title": "beatAffection",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord45",
+            "level": "10",
+            "title": "being torn the sky",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord46",
+            "level": "10",
+            "title": "Believe in you",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord47",
+            "level": "10",
+            "title": "Bloody Tears(IIDX EDITION)",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord48",
+            "level": "10",
+            "title": "Breakin' Chain",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord49",
+            "level": "10",
+            "title": "Breaking the ground",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord50",
+            "level": "10",
+            "title": "Calvados Queen",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord51",
+            "level": "10",
+            "title": "CaptivAte～裁き～(SUBLIME TECHNO MIX)",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord52",
+            "level": "10",
+            "title": "chrono diver -fragment-",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord53",
+            "level": "10",
+            "title": "CoMAAAAAAA",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord54",
+            "level": "10",
+            "title": "CROSSROAD ～Left Story～",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord55",
+            "level": "10",
+            "title": "Damage Per Second",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord56",
+            "level": "10",
+            "title": "DAYDREAMER",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord57",
+            "level": "10",
+            "title": "Dazzlin' Darlin",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord58",
+            "level": "10",
+            "title": "do the thing feat. Kanae Asaba",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord59",
+            "level": "10",
+            "title": "Drive Me Crazy",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord60",
+            "level": "10",
+            "title": "EDEN",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord61",
+            "level": "10",
+            "title": "EMOTiON TRiPPER",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord62",
+            "level": "10",
+            "title": "Euphoric Lagoon",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord63",
+            "level": "10",
+            "title": "Expanded !!",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord64",
+            "level": "10",
+            "title": "Fantasia",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord65",
+            "level": "10",
+            "title": "Flip Flap",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord66",
+            "level": "10",
+            "title": "Follow Tomorrow",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord67",
+            "level": "10",
+            "title": "garden",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord68",
+            "level": "10",
+            "title": "GRID KNIGHT",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord69",
+            "level": "10",
+            "title": "Hold My Hand",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord70",
+            "level": "10",
+            "title": "Horizons of Promise",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord71",
+            "level": "10",
+            "title": "Hypersonik",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord72",
+            "level": "10",
+            "title": "KAMIKAZE",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord73",
+            "level": "10",
+            "title": "LAX5 feat.Ryota Yoshinari",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord74",
+            "level": "10",
+            "title": "LOVELY STORM",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord75",
+            "level": "10",
+            "title": "LUV CAN SAVE U",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord76",
+            "level": "10",
+            "title": "Make A Difference",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord77",
+            "level": "10",
+            "title": "Make Me Your Own",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord78",
+            "level": "10",
+            "title": "MAX LOVE",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord79",
+            "level": "10",
+            "title": "Mermaid girl",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord80",
+            "level": "10",
+            "title": "Mind Mapping",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord81",
+            "level": "10",
+            "title": "Mr.T.(take me higher)",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord82",
+            "level": "10",
+            "title": "NANAIRO",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord83",
+            "level": "10",
+            "title": "New Lights",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord84",
+            "level": "10",
+            "title": "NRG STAR '86 feat. 大山愛未",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord85",
+            "level": "10",
+            "title": "Ocean Blue feat. Luschel",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord86",
+            "level": "10",
+            "title": "Only for now",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord87",
+            "level": "10",
+            "title": "OOO",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord88",
+            "level": "10",
+            "title": "passionate fate",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord89",
+            "level": "10",
+            "title": "PIRATES BLADE",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord90",
+            "level": "10",
+            "title": "Punch Love♡仮面",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord91",
+            "level": "10",
+            "title": "REMINISCENCE",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord92",
+            "level": "10",
+            "title": "RESISTANCE",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord93",
+            "level": "10",
+            "title": "RIZING YOU UP",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord94",
+            "level": "10",
+            "title": "rottel-the-Mercury",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord95",
+            "level": "10",
+            "title": "Rub-a Dub-a",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord96",
+            "level": "10",
+            "title": "SCORE",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord97",
+            "level": "10",
+            "title": "SHION",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord98",
+            "level": "10",
+            "title": "SigSig",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord99",
+            "level": "10",
+            "title": "SINOBUZ Fantasy",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord100",
+            "level": "10",
+            "title": "So Punky",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord101",
+            "level": "10",
+            "title": "Sorrows",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord102",
+            "level": "10",
+            "title": "Sugarplum",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord103",
+            "level": "10",
+            "title": "Sweet Radar",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord104",
+            "level": "10",
+            "title": "Technicolour Dreams",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord105",
+            "level": "10",
+            "title": "The Commanders",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord106",
+            "level": "10",
+            "title": "The Sealer 〜ア・ミリアとミリアの民〜",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord107",
+            "level": "10",
+            "title": "Voo Doo Bamboleo",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord108",
+            "level": "10",
+            "title": "Warrior",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord109",
+            "level": "10",
+            "title": "Wing of Hearts",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord110",
+            "level": "10",
+            "title": "XANADU OF TWO",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord111",
+            "level": "10",
+            "title": "エディブルフラワーの独白",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord112",
+            "level": "10",
+            "title": "おおきなこえで",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord113",
+            "level": "10",
+            "title": "お願いアインシュタイン",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord114",
+            "level": "10",
+            "title": "ここからよろしく大作戦143",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord115",
+            "level": "10",
+            "title": "セピアの軌跡 ft. 天宮みや(少女フラクタル)",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord116",
+            "level": "10",
+            "title": "ハリツヤランデヴー",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord117",
+            "level": "10",
+            "title": "ビューティフルレシート",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord118",
+            "level": "10",
+            "title": "ミラージュ・レジデンス",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord119",
+            "level": "10",
+            "title": "めでてえ",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord120",
+            "level": "10",
+            "title": "ラブキラ☆スプラッシュ",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord121",
+            "level": "10",
+            "title": "リグレット",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord122",
+            "level": "10",
+            "title": "夏の匂い。キミの残像。 ft. Kanae Asaba",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord123",
+            "level": "10",
+            "title": "共犯へヴンズコード",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord124",
+            "level": "10",
+            "title": "月光",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord125",
+            "level": "10",
+            "title": "月雪に舞う華のように",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord126",
+            "level": "10",
+            "title": "衰色小町メランコリア",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord127",
+            "level": "10",
+            "title": "草原の王女-軌跡を辿って-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord128",
+            "level": "10",
+            "title": "鉄甲乙女-under the steel-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord129",
+            "level": "10",
+            "title": "突撃!ガラスのニーソ姫!",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord130",
+            "level": "10",
+            "title": "梅雪夜",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord131",
+            "level": "10",
+            "title": "霧幻メモリア",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord132",
+            "level": "10",
+            "title": "翼",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord133",
+            "level": "10",
+            "title": "凛として咲く花の如く",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord134",
+            "level": "10",
+            "title": "罠",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord135",
+            "level": "11",
+            "title": "2 tribe 4 K",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord136",
+            "level": "11",
+            "title": "AGEHA",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord137",
+            "level": "11",
+            "title": "ALBA -黎明-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord138",
+            "level": "11",
+            "title": "Anisakis -somatic mutation type\"Forza\"-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord139",
+            "level": "11",
+            "title": "apo:llioth",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord140",
+            "level": "11",
+            "title": "AsiaN distractive",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord141",
+            "level": "11",
+            "title": "BabeL ～Grand Story～",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord142",
+            "level": "11",
+            "title": "Bahram Attack-猫叉Master Remix-",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord143",
+            "level": "11",
+            "title": "Be A Star",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord144",
+            "level": "11",
+            "title": "Beyond The Earth",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord145",
+            "level": "11",
+            "title": "Beyond The Seven",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord146",
+            "level": "11",
+            "title": "Blaze it UP!",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord147",
+            "level": "11",
+            "title": "BroGamer",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord148",
+            "level": "11",
+            "title": "CaptivAte～浄化～",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord149",
+            "level": "11",
+            "title": "Chronos",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord150",
+            "level": "11",
+            "title": "City Never Sleeps (IIDX Edition)",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord151",
+            "level": "11",
+            "title": "Click Again",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord152",
+            "level": "11",
+            "title": "COLOSSEUM",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord153",
+            "level": "11",
+            "title": "Cookie Bouquets",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord154",
+            "level": "11",
+            "title": "DAWN -THE NEXT ENDEAVOUR-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord155",
+            "level": "11",
+            "title": "Discloze",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord156",
+            "level": "11",
+            "title": "Egret and Willow",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord157",
+            "level": "11",
+            "title": "Emera",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord158",
+            "level": "11",
+            "title": "examination leave",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord159",
+            "level": "11",
+            "title": "Exhaust Hype",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord160",
+            "level": "11",
+            "title": "Fervidex",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord161",
+            "level": "11",
+            "title": "FREEDOM",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord162",
+            "level": "11",
+            "title": "HEISEI",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord163",
+            "level": "11",
+            "title": "HELL SCAPER -Last Escape Remix-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord164",
+            "level": "11",
+            "title": "in the Sky",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord165",
+            "level": "11",
+            "title": "Journey",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord166",
+            "level": "11",
+            "title": "Legendary Treasures",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord167",
+            "level": "11",
+            "title": "LIKE A VAMPIRE",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord168",
+            "level": "11",
+            "title": "Lucy",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord169",
+            "level": "11",
+            "title": "Marie Antoinette",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord170",
+            "level": "11",
+            "title": "No Tears",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord171",
+            "level": "11",
+            "title": "Outbreak",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord172",
+            "level": "11",
+            "title": "Para siempre",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord173",
+            "level": "11",
+            "title": "PENDUAL TALISMAN",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord174",
+            "level": "11",
+            "title": "Pollinosis",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord175",
+            "level": "11",
+            "title": "R∞tAge",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord176",
+            "level": "11",
+            "title": "Realize Maze",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord177",
+            "level": "11",
+            "title": "RISING FIRE HAWK",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord178",
+            "level": "11",
+            "title": "SHADE",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord179",
+            "level": "11",
+            "title": "smile",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord180",
+            "level": "11",
+            "title": "SOUND OF GIALLARHORN",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord181",
+            "level": "11",
+            "title": "SPACE FIGHT",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord182",
+            "level": "11",
+            "title": "STARLiGHT",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord183",
+            "level": "11",
+            "title": "STARLIGHT DANCEHALL",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord184",
+            "level": "11",
+            "title": "Take It Easy",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord185",
+            "level": "11",
+            "title": "Temple of Anubis",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord186",
+            "level": "11",
+            "title": "THE DEEP STRIKER",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord187",
+            "level": "11",
+            "title": "THE DETONATOR",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord188",
+            "level": "11",
+            "title": "THE FALLEN",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord189",
+            "level": "11",
+            "title": "the trigger of innocence",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord190",
+            "level": "11",
+            "title": "Time to Air",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord191",
+            "level": "11",
+            "title": "Tropical April",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord192",
+            "level": "11",
+            "title": "V2",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord193",
+            "level": "11",
+            "title": "Valgus",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord194",
+            "level": "11",
+            "title": "VALKYRIAS -英雄誕生-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord195",
+            "level": "11",
+            "title": "Ventriloquist",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord196",
+            "level": "11",
+            "title": "Victory Of Ravers",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord197",
+            "level": "11",
+            "title": "Volcanic Dragon",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord198",
+            "level": "11",
+            "title": "Wanna Party?",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord199",
+            "level": "11",
+            "title": "Welcome",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord200",
+            "level": "11",
+            "title": "WISE UP!",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord201",
+            "level": "11",
+            "title": "Ｘ↑Ｘ↓",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord202",
+            "level": "11",
+            "title": "Xyndrome",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord203",
+            "level": "11",
+            "title": "シャムシールの舞",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord204",
+            "level": "11",
+            "title": "ディッシュウォッシャー◎彡おいわちゃん",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord205",
+            "level": "11",
+            "title": "ドッキン☆サマーあばんちゅーる",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord206",
+            "level": "11",
+            "title": "バッドエンド・シンドローム",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord207",
+            "level": "11",
+            "title": "ユミル",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord208",
+            "level": "11",
+            "title": "明鏡止水",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord209",
+            "level": "11",
+            "title": "恋は白帯、サンシロー",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord210",
+            "level": "11",
+            "title": "錬成人間トリコロイダー",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord211",
+            "level": "11",
+            "title": "凛として咲く花の如く",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord212",
+            "level": "11",
+            "title": "朧",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord213",
+            "level": "11",
+            "title": "鴉",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord214",
+            "level": "12",
+            "title": "〆",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord215",
+            "level": "12",
+            "title": "AKASHIC BREAK",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord216",
+            "level": "12",
+            "title": "ALBIDA",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord217",
+            "level": "12",
+            "title": "ALTERNATOR",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord218",
+            "level": "12",
+            "title": "Amazing Mirage",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord219",
+            "level": "12",
+            "title": "Anisakis -somatic mutation type\"Forza\"-",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord220",
+            "level": "12",
+            "title": "B4U(BEMANI FOR YOU MIX)",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord221",
+            "level": "12",
+            "title": "Beat Radiance",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord222",
+            "level": "12",
+            "title": "BITTER CHOCOLATE STRIKER",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord223",
+            "level": "12",
+            "title": "Boomy and The Boost",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord224",
+            "level": "12",
+            "title": "BroGamer",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord225",
+            "level": "12",
+            "title": "CHRONO DIVER -NORNIR-",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord226",
+            "level": "12",
+            "title": "Cosmic Cat",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord227",
+            "level": "12",
+            "title": "DARK LEGACY",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord228",
+            "level": "12",
+            "title": "Despair of ELFERIA",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord229",
+            "level": "12",
+            "title": "Dynamite",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord230",
+            "level": "12",
+            "title": "Elemental Creation",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord231",
+            "level": "12",
+            "title": "eRAseRmOToRpHAntOM",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord232",
+            "level": "12",
+            "title": "G59",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord233",
+            "level": "12",
+            "title": "GO OVER WITH GLARE -ROOTAGE 26-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord234",
+            "level": "12",
+            "title": "GRID KNIGHT",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord235",
+            "level": "12",
+            "title": "Initiation",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord236",
+            "level": "12",
+            "title": "INSOMNIA",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord237",
+            "level": "12",
+            "title": "Kung-fu Empire",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord238",
+            "level": "12",
+            "title": "Little Little Princess",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord239",
+            "level": "12",
+            "title": "LIVE DRIVING!! feat. 花たん",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord240",
+            "level": "12",
+            "title": "M4K3 1T B0UNC3",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord241",
+            "level": "12",
+            "title": "Marie Antoinette",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord242",
+            "level": "12",
+            "title": "mosaic",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord243",
+            "level": "12",
+            "title": "NEO GENERATOR SEVEN",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord244",
+            "level": "12",
+            "title": "NNRT",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord245",
+            "level": "12",
+            "title": "Override",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord246",
+            "level": "12",
+            "title": "PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord247",
+            "level": "12",
+            "title": "Please Welcome Mr.C",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord248",
+            "level": "12",
+            "title": "Rampage",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord249",
+            "level": "12",
+            "title": "Rave*it!! Rave*it!!",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord250",
+            "level": "12",
+            "title": "reunion",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord251",
+            "level": "12",
+            "title": "rommmo",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord252",
+            "level": "12",
+            "title": "Say YEEEAHH",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord253",
+            "level": "12",
+            "title": "Secrets",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord254",
+            "level": "12",
+            "title": "SOLID STATE SQUAD",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord255",
+            "level": "12",
+            "title": "Sounds Of Summer",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord256",
+            "level": "12",
+            "title": "Super Rush",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord257",
+            "level": "12",
+            "title": "THE BRAVE MUST DIE",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord258",
+            "level": "12",
+            "title": "THE DEEP STRIKER",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord259",
+            "level": "12",
+            "title": "thunder HOUSE NATION Remix",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord260",
+            "level": "12",
+            "title": "Thunderbolt",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord261",
+            "level": "12",
+            "title": "Time to Air",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord262",
+            "level": "12",
+            "title": "Triple Counter",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord263",
+            "level": "12",
+            "title": "TROOPERS",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord264",
+            "level": "12",
+            "title": "Venom",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord265",
+            "level": "12",
+            "title": "VOX UP",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord266",
+            "level": "12",
+            "title": "waxing and wanding",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord267",
+            "level": "12",
+            "title": "Welcome",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord268",
+            "level": "12",
+            "title": "仮想空間の旅人たち",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "chord269",
+            "level": "12",
+            "title": "逆月",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord270",
+            "level": "12",
+            "title": "九尾狐夜行",
+            "difficulty": "Another"
+        },
+        {
+            "id": "chord271",
+            "level": "12",
+            "title": "世界の果てに約束の凱歌を -ReUnion-",
+            "difficulty": "Another"
+        }
+    ]
+}

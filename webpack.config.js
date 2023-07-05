@@ -3,8 +3,8 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
     entry: {
-        creatematch: '/src/CreateMatch/index.js',
-        team: '/src/Team/index.js'
+        creatematch: '/frontend/src/CreateMatch/index.js',
+        team: '/frontend/src/Team/index.js'
     },
     output: {
         path: path.join(__dirname, "/dist"),
@@ -18,13 +18,13 @@ module.exports = {
     plugins: [
         new HtmlWebpackPlugin({
             filename: 'creatematch.html',
-            template: "./src/CreateMatch/creatematch.html",
+            template: "./frontend/src/CreateMatch/creatematch.html",
             inject: true,
             chunks: ['creatematch']
         }),
         new HtmlWebpackPlugin({
             filename: 'team.html',
-            template: "./src/Team/team.html",
+            template: "./frontend/src/Team/team.html",
             inject: true,
             chunks: ['team']
         }),
@@ -39,6 +39,7 @@ module.exports = {
             exclude: /node_modules/, // excluding the node_modules folder
             use: {
                 loader: "babel-loader",
+                options: { presets: ['@babel/env', '@babel/preset-react'] },
             },
         },
         {

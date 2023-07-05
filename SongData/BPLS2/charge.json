@@ -1,0 +1,550 @@
+{
+    "charge": [
+        {
+            "id": "charge0",
+            "level": "9",
+            "title": "ATOMIC AGE",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge1",
+            "level": "9",
+            "title": "Miami Sunset Drive",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge2",
+            "level": "9",
+            "title": "獅子霞麗ノ舞",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge3",
+            "level": "9",
+            "title": "真夏の花・真夏の夢",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge4",
+            "level": "10",
+            "title": "Almace",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge5",
+            "level": "10",
+            "title": "Arcana",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge6",
+            "level": "10",
+            "title": "Donkey Donk",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge7",
+            "level": "10",
+            "title": "Everlasting Resort",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge8",
+            "level": "10",
+            "title": "Golden Palms",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge9",
+            "level": "10",
+            "title": "Infinity Mirror",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge10",
+            "level": "10",
+            "title": "Light Shine",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge11",
+            "level": "10",
+            "title": "OUTER PLANETS",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge12",
+            "level": "10",
+            "title": "RIDE ON THE LIGHT (HI GREAT MIX)",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "charge13",
+            "level": "10",
+            "title": "soldier's waltz",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge14",
+            "level": "10",
+            "title": "The Best of Both Worlds",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge15",
+            "level": "10",
+            "title": "Virus Funk",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge16",
+            "level": "10",
+            "title": "ラストセンチュリーメランコリック",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge17",
+            "level": "10",
+            "title": "少女アリスと箱庭幻想コンチェルト",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge18",
+            "level": "11",
+            "title": "ABSOLUTE",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "charge19",
+            "level": "11",
+            "title": "ABSOLUTE (kors k Remix)",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge20",
+            "level": "11",
+            "title": "Acid Pumper",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge21",
+            "level": "11",
+            "title": "Chronos",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge22",
+            "level": "11",
+            "title": "Clione",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "charge23",
+            "level": "11",
+            "title": "Daily Lunch Special",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge24",
+            "level": "11",
+            "title": "Dawn Saga",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge25",
+            "level": "11",
+            "title": "Elisha",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge26",
+            "level": "11",
+            "title": "Energy Drive",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge27",
+            "level": "11",
+            "title": "Ergosphere",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge28",
+            "level": "11",
+            "title": "GIGANT",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "charge29",
+            "level": "11",
+            "title": "GIGA RAID",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge30",
+            "level": "11",
+            "title": "Golden Palms",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "charge31",
+            "level": "11",
+            "title": "Kailua",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge32",
+            "level": "11",
+            "title": "MIRACLE MEETS",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge33",
+            "level": "11",
+            "title": "Nocturnal 2097",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge34",
+            "level": "11",
+            "title": "of the first magnitude",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge35",
+            "level": "11",
+            "title": "Psycho Sheep Riddim",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "charge36",
+            "level": "11",
+            "title": "Rejection Girl",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge37",
+            "level": "11",
+            "title": "ROCK女 feat. 大山愛未, Ken",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge38",
+            "level": "11",
+            "title": "S!ck (Nhato Remix)",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge39",
+            "level": "11",
+            "title": "Sakura Reflection",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge40",
+            "level": "11",
+            "title": "Scandal",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge41",
+            "level": "11",
+            "title": "Scars of FAUNA",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge42",
+            "level": "11",
+            "title": "Scharfrichter",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge43",
+            "level": "11",
+            "title": "Souhait bleu",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge44",
+            "level": "11",
+            "title": "THE BLACK KNIGHT",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge45",
+            "level": "11",
+            "title": "Urban Constellations",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge46",
+            "level": "11",
+            "title": "VALLIS-NERIA",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge47",
+            "level": "11",
+            "title": "Wolf 1061",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge48",
+            "level": "11",
+            "title": "XINOBIKILL",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge49",
+            "level": "11",
+            "title": "Zenith",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge50",
+            "level": "11",
+            "title": "鬼天",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge51",
+            "level": "11",
+            "title": "乱膳の舞姫",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge52",
+            "level": "12",
+            "title": "ABSOLUTE EVIL",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge53",
+            "level": "12",
+            "title": "Adularia",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge54",
+            "level": "12",
+            "title": "Aftermath",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge55",
+            "level": "12",
+            "title": "Almagest",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge56",
+            "level": "12",
+            "title": "BEAT PRISONER",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge57",
+            "level": "12",
+            "title": "BIGソムタム",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge58",
+            "level": "12",
+            "title": "Carmina",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge59",
+            "level": "12",
+            "title": "DIAMOND CROSSING",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge60",
+            "level": "12",
+            "title": "ECHIDNA",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge61",
+            "level": "12",
+            "title": "Everlasting Message",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge62",
+            "level": "12",
+            "title": "Hollywood Galaxy",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge63",
+            "level": "12",
+            "title": "Ignis†Iræ",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge64",
+            "level": "12",
+            "title": "LOCUS OF THE TRAVEL",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge65",
+            "level": "12",
+            "title": "NZM",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge66",
+            "level": "12",
+            "title": "Painful Fate",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge67",
+            "level": "12",
+            "title": "Papilio ulysses",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge68",
+            "level": "12",
+            "title": "PARADISE LOST",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge69",
+            "level": "12",
+            "title": "Reflux",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge70",
+            "level": "12",
+            "title": "REVOLVER",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "charge71",
+            "level": "12",
+            "title": "Sinus Iridum",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge72",
+            "level": "12",
+            "title": "Snakey Kung-fu",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge73",
+            "level": "12",
+            "title": "Steel Edge",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge74",
+            "level": "12",
+            "title": "Timepiece phase II (CN Ver.)",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge75",
+            "level": "12",
+            "title": "TITANS RETURN",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "charge76",
+            "level": "12",
+            "title": "TOGAKUSHI",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge77",
+            "level": "12",
+            "title": "Triple Cross",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge78",
+            "level": "12",
+            "title": "TRIUMPH",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge79",
+            "level": "12",
+            "title": "Unbelief",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge80",
+            "level": "12",
+            "title": "Umbral",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "charge81",
+            "level": "12",
+            "title": "Valanga",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge82",
+            "level": "12",
+            "title": "ディスコルディア",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge83",
+            "level": "12",
+            "title": "海神",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge84",
+            "level": "12",
+            "title": "共鳴遊戯の華",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge85",
+            "level": "12",
+            "title": "深淵に捧ぐレクイエム",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge86",
+            "level": "12",
+            "title": "真 地獄超特急 -HELL or HELL-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge87",
+            "level": "12",
+            "title": "水鏡の異界",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge88",
+            "level": "12",
+            "title": "魔法のかくれんぼ",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge89",
+            "level": "12",
+            "title": "烽火連天の刃",
+            "difficulty": "Another"
+        },
+        {
+            "id": "charge90",
+            "level": "12",
+            "title": "禊",
+            "difficulty": "Another"
+        }
+    ]
+}

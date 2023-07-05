@@ -1,0 +1,244 @@
+{
+    "soflan": [
+        {
+            "id": "soflan0",
+            "level": "8",
+            "title": "empathy",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan1",
+            "level": "8",
+            "title": "Voltage (feat. Hidemaru)",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan2",
+            "level": "9",
+            "title": "2hot2eat",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan3",
+            "level": "9",
+            "title": "era (nostalmix)",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan4",
+            "level": "9",
+            "title": "era (step mix)",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan5",
+            "level": "10",
+            "title": "Agnus Dei",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan6",
+            "level": "10",
+            "title": "GRADIUS -FULL SPEED-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan7",
+            "level": "10",
+            "title": "op.31 叙情",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan8",
+            "level": "10",
+            "title": "Surf on the Light",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan9",
+            "level": "11",
+            "title": "(This Is Not) The Angels",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan10",
+            "level": "11",
+            "title": "Ah Hah Yeah",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan11",
+            "level": "11",
+            "title": "D",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan12",
+            "level": "11",
+            "title": "four pieces of heaven",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan13",
+            "level": "11",
+            "title": "FUTURE is Dead",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan14",
+            "level": "11",
+            "title": "Linus",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan15",
+            "level": "11",
+            "title": "nostos",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan16",
+            "level": "11",
+            "title": "Onyx",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan17",
+            "level": "11",
+            "title": "SABER WING",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan18",
+            "level": "11",
+            "title": "Theory",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan19",
+            "level": "12",
+            "title": "Concertino in Blue",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan20",
+            "level": "12",
+            "title": "DAY DREAM",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan21",
+            "level": "12",
+            "title": "DropZ-Line-",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan22",
+            "level": "12",
+            "title": "Fascination MAXX",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan23",
+            "level": "12",
+            "title": "ICARUS",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan24",
+            "level": "12",
+            "title": "ICARUS",
+            "difficulty": "Leggendaria"
+        },
+        {
+            "id": "soflan25",
+            "level": "12",
+            "title": "JOMANDA",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan26",
+            "level": "12",
+            "title": "n/a",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan27",
+            "level": "12",
+            "title": "New Castle Legions",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan28",
+            "level": "12",
+            "title": "PARANOiA ～HADES～",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan29",
+            "level": "12",
+            "title": "POSSESSION",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan30",
+            "level": "12",
+            "title": "ruin of opals",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan31",
+            "level": "12",
+            "title": "Silver Bullet",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan32",
+            "level": "12",
+            "title": "Y&Co. is dead or alive",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan33",
+            "level": "12",
+            "title": "ピアノ協奏曲第１番”蠍火”",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan34",
+            "level": "12",
+            "title": "ピアノ独奏無言歌 \"灰燼\"",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan35",
+            "level": "12",
+            "title": "ワルツ第17番 ト短調”大犬のワルツ”",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan36",
+            "level": "12",
+            "title": "音楽",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan37",
+            "level": "12",
+            "title": "桜",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan38",
+            "level": "12",
+            "title": "聖人の塔",
+            "difficulty": "Another"
+        },
+        {
+            "id": "soflan39",
+            "level": "12",
+            "title": "冥",
+            "difficulty": "Another"
+        }
+    ]
+}

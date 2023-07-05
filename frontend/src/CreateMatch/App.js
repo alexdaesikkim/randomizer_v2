@@ -25,19 +25,25 @@ const App = () => {
     })
 
     const saveAndFetchMatch = () => {
-        const url = "api/creatematch"
+        const url = "http://localhost:3000/api/creatematch"
         const body = {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
+                "accepts": "application/json",
             },
             body: JSON.stringify(match)
         }
+        console.log(body)
 
         fetch(url, body)
             .then(response => response.json())
             .then(data => {
                 console.log(data)
+                setMatchSaved(true);
+                setMatchID(data.message.matchID);
+                setTeam1ID(data.message.team1ID);
+                setTeam2ID(data.message.team2ID);
             })
             .catch(error => {
                 console.log(error)
@@ -46,7 +52,7 @@ const App = () => {
 
     return (
         <>
-            <form>
+            {!matchSaved ? (<form>
                 <div className={"team-container"}>
                     <div className={"team-column"}>
                         <label className={"team-item"}>
@@ -59,7 +65,7 @@ const App = () => {
                         <label className={"team-item"}>
                             # of Strategy Cards
                             <br/>
-                            <input value={match.team1StrategyCard} type="number" min="0" max={match.songLimits.length} onChange={(e) => dispatch(setStrategyCard({team: 1, value: e.target.value}))} />
+                            <input value={match.team1StrategyCards} type="number" min="0" max={match.songLimits.length} onChange={(e) => dispatch(setStrategyCard({team: 1, value: e.target.value}))} />
                         </label>
                     </div>
                     <div className={"team-column"}>
@@ -73,7 +79,7 @@ const App = () => {
                         <label className={"team-item"}>
                             # of Strategy Cards
                             <br/>
-                            <input value={match.team2StrategyCard} type="number" min="0" max={match.songLimits.length} onChange={(e) => dispatch(setStrategyCard({team: 2, value: e.target.value}))} />
+                            <input value={match.team2StrategyCards} type="number" min="0" max={match.songLimits.length} onChange={(e) => dispatch(setStrategyCard({team: 2, value: e.target.value}))} />
                         </label>
                     </div>
                 </div>
@@ -118,7 +124,19 @@ const App = () => {
                 Team2 Name is: {match.team2Name}
                 <br/>
                 EX strategy is {match.exStrategyCard === true ? "Enabled" : "Disabled"}
-            </form>
+            </form>) : 
+                <>
+                    <div className="">
+                        MATCH URL: https://localhost:3001/streamview/{matchID}
+                    </div>
+                    <div className="">
+                        {match.team1Name} URL: https://localhost:3001/match/{team1ID}
+                    </div>
+                    <div className="">
+                        {match.team2Name} URL: https://localhost:3001/match/{team2ID}
+                    </div>
+                </>
+            }
         </>
     );
 };

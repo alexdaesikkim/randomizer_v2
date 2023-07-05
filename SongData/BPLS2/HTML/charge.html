@@ -1,0 +1,382 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function (event) {
+    var list = [].slice.call(document.getElementsByClassName("cat"));
+    var test = list.map((value, id) => {
+      return {
+        id: "charge" + id,
+        level: value.childNodes[1].innerText,
+        title: value.childNodes[3].innerText,
+        difficulty:
+          value.childNodes[3].className !== "leg" ? "Another" : "Leggendaria",
+      };
+    });
+    console.log({ charge: test });
+  });
+</script>
+
+<div class="inner">
+  <div class="cat">
+    <p>9</p>
+    <p>ATOMIC AGE</p>
+  </div>
+  <div class="cat">
+    <p>9</p>
+    <p>Miami Sunset Drive</p>
+  </div>
+  <div class="cat">
+    <p>9</p>
+    <p>獅子霞麗ノ舞</p>
+  </div>
+  <div class="cat">
+    <p>9</p>
+    <p>真夏の花・真夏の夢</p>
+  </div>
+  <div class="cat">
+    <p>10</p>
+    <p>Almace</p>
+  </div>
+  <div class="cat">
+    <p>10</p>
+    <p>Arcana</p>
+  </div>
+  <div class="cat">
+    <p>10</p>
+    <p>Donkey Donk</p>
+  </div>
+  <div class="cat">
+    <p>10</p>
+    <p>Everlasting Resort</p>
+  </div>
+  <div class="cat">
+    <p>10</p>
+    <p>Golden Palms</p>
+  </div>
+  <div class="cat">
+    <p>10</p>
+    <p>Infinity Mirror</p>
+  </div>
+  <div class="cat">
+    <p>10</p>
+    <p>Light Shine</p>
+  </div>
+  <div class="cat">
+    <p>10</p>
+    <p>OUTER PLANETS</p>
+  </div>
+  <div class="cat">
+    <p>10</p>
+    <p class="leg">RIDE ON THE LIGHT (HI GREAT MIX)</p>
+  </div>
+  <div class="cat">
+    <p>10</p>
+    <p>soldier's waltz</p>
+  </div>
+  <div class="cat">
+    <p>10</p>
+    <p>The Best of Both Worlds</p>
+  </div>
+  <div class="cat">
+    <p>10</p>
+    <p>Virus Funk</p>
+  </div>
+  <div class="cat">
+    <p>10</p>
+    <p>ラストセンチュリーメランコリック</p>
+  </div>
+  <div class="cat">
+    <p>10</p>
+    <p>少女アリスと箱庭幻想コンチェルト</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p class="leg">ABSOLUTE</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>ABSOLUTE (kors k Remix)</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Acid Pumper</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Chronos</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p class="leg">Clione</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Daily Lunch Special</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Dawn Saga</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Elisha</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Energy Drive</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Ergosphere</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p class="leg">GIGANT</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>GIGA RAID</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p class="leg">Golden Palms</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Kailua</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>MIRACLE MEETS</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Nocturnal 2097</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>of the first magnitude</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p class="leg">Psycho Sheep Riddim</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Rejection Girl</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>ROCK女 feat. 大山愛未, Ken</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>S!ck (Nhato Remix)</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Sakura Reflection</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Scandal</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Scars of FAUNA</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Scharfrichter</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Souhait bleu</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>THE BLACK KNIGHT</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Urban Constellations</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>VALLIS-NERIA</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Wolf 1061</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>XINOBIKILL</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>Zenith</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>鬼天</p>
+  </div>
+  <div class="cat">
+    <p>11</p>
+    <p>乱膳の舞姫</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>ABSOLUTE EVIL</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>Adularia</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>Aftermath</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>Almagest</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>BEAT PRISONER</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>BIGソムタム</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>Carmina</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>DIAMOND CROSSING</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>ECHIDNA</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>Everlasting Message</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>Hollywood Galaxy</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>Ignis†Iræ</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>LOCUS OF THE TRAVEL</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>NZM</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>Painful Fate</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>Papilio ulysses</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>PARADISE LOST</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>Reflux</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p class="leg">REVOLVER</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>Sinus Iridum</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>Snakey Kung-fu</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>Steel Edge</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>Timepiece phase II (CN Ver.)</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p class="leg">TITANS RETURN</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>TOGAKUSHI</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>Triple Cross</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>TRIUMPH</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>Unbelief</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p class="leg">Umbral</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>Valanga</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>ディスコルディア</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>海神</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>共鳴遊戯の華</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>深淵に捧ぐレクイエム</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>真 地獄超特急 -HELL or HELL-</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>水鏡の異界</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>魔法のかくれんぼ</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>烽火連天の刃</p>
+  </div>
+  <div class="cat">
+    <p>12</p>
+    <p>禊</p>
+  </div>
+</div>

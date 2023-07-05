@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { useSelector, useDispatch } from 'react-redux';
-import { updateLimit, updateScore } from './../redux/matchSlice.js'
+import { updateLimit, updateScore } from '../redux/matchSlice.js'
 
 export const LimitCard = (props) => {
 
